@@ -1,5 +1,6 @@
-.avatar {
-    background: url(img/av_64.png) no-repeat;
+.ava {
+    background-image: url(/img/av_64.png);
+    background-repeat: no-repeat;
     height: 64px;
     width: 60px;
 }
