@@ -1,0 +1,30 @@
+.avatar {
+    background: url(img/av_64.png) no-repeat;
+    height: 64px;
+    width: 60px;
+}
+
+.edit {
+    width: 100%;
+    background: #8bd8fb;
+}
+.edit:hover{
+    background: #8bd8fb;
+}
+
+.menu li {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.menu li:hover {
+    background-color: #e4f6fe;
+}
+
+span.badge {
+    min-width: unset;
+}
+.photo{
+    padding: 30px;
+    max-width: 250px;
+}
